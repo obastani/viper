@@ -1,0 +1,2 @@
+model_checkpoint_path: "/mnt/afs/szymon/blogpost3/atari-a/Pong-123/model-49844875/saved"
+all_model_checkpoint_paths: "/mnt/afs/szymon/blogpost3/atari-a/Pong-123/model-49844875/saved"
